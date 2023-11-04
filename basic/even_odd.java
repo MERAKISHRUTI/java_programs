@@ -1,3 +1,4 @@
+package basic;
 import java.util.Scanner;
 
 class even_odd{

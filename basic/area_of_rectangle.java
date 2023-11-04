@@ -1,3 +1,4 @@
+package basic;
 import java.util.Scanner;
 
 public class area_of_rectangle {
