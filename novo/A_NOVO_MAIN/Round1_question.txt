@@ -1,0 +1,88 @@
+Name -SHRUTI SINGHAL
+Sec -3B
+Duration -1hr 53min
+
+--------------------------------------------------------
+
+•Define HTML
+•What is tags with ex
+•What is attributes with ex
+
+--------------------------------------------------------
+
+
+
+•What is CSS 
+•Types of CSS
+•How we link CSS
+•Style sheet
+•Border boxing
+•Flex Flex-box
+•What css properties we use for responsive website
+•How to make better responsive website
+•What is difference between em and rem
+
+--------------------------------------------------------
+
+
+
+•Diff between var vs let
+•what is hoisting
+•output of x.concat(y) where x='abc' and y='abc'
+
+
+--------------------------------------------------------
+
+
+•What is nodejs
+•What is expressjs
+•What is difference between nodejs and expressjs
+•Write a program to create server on node js 
+•Write a program to create server on express js
+•Features of express js 
+•What is middlewares
+•What is template engine
+•CRUD operations in mongodb
+
+
+
+--------------------------------------------------------
+
+•What is SQL 
+•What is primary key 
+•What is foreign key
+•It is essential to have key in table?
+•Which key is essential in table?
+•Features of DBMS 
+•Write a query to find nth salary in employee database .
+
+
+--------------------------------------------------------
+
+
+•What is bubble sort and write it's program
+•Reverse the array
+•Pattern
+A
+BC
+DEF
+GHIJ
+KLMNO
+
+•arr={8,7,2,5,3,1}
+Target = 10
+Print pairs and count 
+
+•X=10/0
+Value of x in java 
+Value of x in javascript
+
+--------------------------------------------------------
+
+
+•Explain concept of oops 
+•Explain its 4 pillors
+•Explain abstract class
+•Explain this keyboard
+•Why we use this keyword
+•Write a program to show compile time polymorphism and run time polymorphism

@@ -1,3 +1,6 @@
+// These all questions are solved by me in front of an interviewer
+
+
 // import java.util.HashMap;
 // import java.util.Map;
 
