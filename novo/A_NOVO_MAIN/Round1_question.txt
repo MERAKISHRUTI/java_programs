@@ -21,6 +21,8 @@ Duration -1hr 53min
 •What css properties we use for responsive website
 •How to make better responsive website
 •What is difference between em and rem
+•Explain flex and grid layouts
+•Difference between visibility hidden and display none
 
 --------------------------------------------------------
 
