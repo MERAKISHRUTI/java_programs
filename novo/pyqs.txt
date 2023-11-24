@@ -1,0 +1,2234 @@
+Akash Verma
+1902310100008
+CSE
+
+1.what is oops
+2.describe all oops concept
+3.string palindrome
+4.pattern program
+        1
+      232
+    34543
+ 4567645
+5.sort an array 
+6.complexities of sorting algorithms
+7.second highest salary in sql
+8.primary key and foreign key
+9.unique key and primary key
+10.concept of interface
+
+
+Name: Abhishek Sharma
+Roll no: 1902310100003
+Branch: CSE
+Question Asked
+1. Tell me about yourself
+2. Oops
+3.oops principles
+4.Interface 
+5.stack,queue, linked list
+6.tree traversal
+7. Palindrome string
+8. Program to add two linked list
+9. Reverse linked list
+10. Inner join
+11. Query
+12. Candidate key, primary key
+
+
+
+Harshita Rohilla 
+Roll no. -1902310100032
+Branch CSE
+1.Introduce yourself
+2.recursion
+3.maximum element in an array program 
+4.reverse a string
+5.program to insert node 
+6.linked list 
+7.stack
+8.update and select query
+9.join query
+
+
+Ansh Bhardwaj
+CSE
+1902310100017
+1. Self intro.
+2. About project.
+3. Reverse string program.
+4. Changes in project.
+5. Select and update query.
+6. Encapsulation.
+
+
+
+Divya Shinde
+Roll no. -1907830100028
+Branch CSE
+1.Introduce yourself
+2.principal of oops explain in detail
+3.liked list
+4.adding two linkednlist 
+5.anagram string 
+6.create node and insert linked list
+7.keys and its types
+8.querry for 3rd highest salary
+9.join and outer join querry
+10.final 
+11.try catch and final block
+12.Dynamic memory allocation
+
+
+
+Muskan
+Cse
+1823110053
+Project
+Palindrome no
+Binary search
+Joins & related queries
+Php( basics)
+Css
+Html tags marque tag
+Javascript basic
+
+
+
+ Mohit kaushik
+CSE (1902310100057)
+1. Self intro.
+2.what is encapsulation.
+3. Reverse string program.
+4. Reverse a array
+5. Features of java
+[19:24, 11/18/2023] Shruti Singhal: Time complexity
+Merge sort 
+Complexity of different sorting techniques
+
+
+
+
+Mansi Tyagi
+CSE
+1902310100053
+1. Self intro
+2. Joins
+3. Difference b/w inner join and left join
+4. Join Query 
+5. Linked list
+6. Malloc and calloc
+7.  Program Input: aaabbcc, output:a3b2c2
+8. Primary and foreign key
+
+
+Jatin verma
+CSE (1902310100036)
+1. DBMS QUERIES
+2. WORD PROBLEM
+3ltr 5ltr 8ltr cup there fill it with 4ltr 
+3. Sort the array
+4. About my project
+5. Oops concepts
+6. Types of Inheritance
+7. All CRUD Queries
+
+
+Abhishek Gautam
+Cse-1902310100004
+1.Introduce yourself
+2. Meta tag
+3 Difference between java and c
+4.difference between java and python
+5 What is compailer
+6.linked list and its types
+7.explain project
+8. Explain Sql and nosql
+9.Dynamic memory allocation
+10.Dangling pointer
+11.Heap
+12. which data structures used in Your project.
+13.Oops
+
+
+
+Name : Guru Charan Gupta
+Roll no : 1902310100030
+Branch : CS
+1. Introduce yourself
+2. deletion in double ended queue program
+3. oops in java
+4. What is Linked list
+5. Reverse Linked list program
+
+
+
+ Pinku Kumar
+IT (1902310130018)
+1. Self intro.
+2. Project
+3.what is encapsulation.
+4. Reverse string program.
+5. Multidimensional array
+6. JavaScript function 
+7. Doubly linklist
+8. Pallindrome number
+9. List and tuples 
+10. SQL command 
+11. Oops in java
+
+
+Name:Ritik Singh
+Section:B
+Branch:CSE
+1.introduce your self
+2.kaden's algorithm
+3.binary search tree and its implementation.
+4.sql query
+5.puzzle
+
+
+ Hemant Gupta
+CSE ->1902310100033
+1. Introduce yourself
+3ltr 5ltr 8ltr cup there fill it with 4ltr 
+3. Sort the array
+4. About my project
+5. Oops concepts
+6. Types of Inheritance
+
+
+Anmol Tyagi
+CSE
+1902310100016
+1.Intro
+2.About project
+3.Sort the array
+4.    4 litre water has to be filled in 3,5,8 litre bucket
+5.Oops concept 
+6.Multiple inheritance
+
+
+
+ Rahul Maheshwari
+IT (1902310130022)
+1. Self intro.
+2. Project
+3.what is encapsulation.
+4. JavaScript function 
+5. Doubly linklist
+6. SQL command 
+7. Oops in java
+8. What is anagram and its code
+
+
+
+ Neeshu Kumar
+1902310100059
+Interviewer-Manik Gulati
+1.Self Introduction
+2.OOPS
+3.polymorphism
+4.Overloading and Overriding
+5.pattern
+        1
+      232
+    34543
+ 4567654
+
+6.Recursion
+7.String palindrome or not using recursion
+8.Super key in java
+9.delete a node in linkedlist from specific position
+10.SQL concept
+       -Order by
+       -Group by
+11.sql query for removing duplicate records
+12.sql query for find nth salary
+
+
+
+
+ Nipun saini
+CSE (1902310100061)
+1. Self intro.
+2. Project
+3.what is encapsulation.
+4. OOPS in java
+5. linklist insertion
+6. SQL command 
+7.project changes 
+8. Joins
+
+
+
+
+
+ Magan Sharma
+CS (1907830100051)
+1. Self intro.
+2.  mysql query
+3.what is polymorphism.
+4.  linklist
+5. stack
+7. Oops in java
+8. joins
+
+
+
+
+
+ Rishab Sharma
+CSE (2002310109007)
+1. Self intro.
+2. Project
+3.Oops.
+4. Polymorphism. 
+5. Encapsulation
+6. Difference between c & Java.
+7. Difference between linkedlist and array.                
+8.create Reverse a String.
+
+
+
+
+
+ Rituraj Jha
+IT (1902310130023)
+1.self intro
+2.project
+3.Joins and index
+4. Polymorphism
+5. Encapsulation 
+6. Why array is better linked list
+7. Creation of table in dbms and insert the values
+
+
+
+
+Niket Paliwal
+CSE(1907830100061)
+1. Self intro
+2. Project
+3. Different b/w javascript and typescript
+4. OOPs all 
+5. Joins
+6. Responsive design related to media queries
+7. Advantages of linked list over array
+8. Palindrome program
+9. Can stack be implemented in queue
+10. 1,4,6,9,11 series find next number
+11. Swiggy uses which data structure
+12. Does self join and right outer join are equal
+13. Abstraction and encapsulation similarity.
+
+
+
+
+
+
+ Name: Shubham Shrivastav
+Branch:MCA
+Interviewer Name: Pankaj Verma. 
+
+1.Self Intro
+2.Joins
+3.Stack  program 
+4.diff b/w primary key and foreign key
+5.About Project. 
+6.Diff b/w Stack and queue. 
+7.Linked list. 
+8.Palindrome Number          Program.
+
+
+
+
+
+ Name- Neeraj
+Roll no.-1902310100058
+Interviewer- Aryan Dhiman
+1. Self intro
+2. 3 project changes
+3. Intership role and about internship(i mentioned internship)
+4. Reverse a string in java
+5. Dbms data types and difference bw varchar and char
+6. Dbms queries for create, update, relation algebra question query.
+7. Java vs C vs Python
+6. Program for panagram in any language
+7. Oops concepts all 
+8. Merge sort and its complexity
+9. Time complexity and space complexity.
+
+
+
+
+
+ Name: Megha
+Roll no: 1902310100054
+Branch: CS
+Interviewer: Simran Kaushal and Akshara Bhardwaj
+Questions asked:
+1 Introduction
+2 Complexity related questions 
+3 Recursion program 
+4 List 
+5 Dictionary
+6. Situation based questions 
+7. What to make coding or situation more efficient and how. Give examples and write programs 
+8. Decorators in python
+9. Print pattern 
+    Input - aaabbcc
+    Output - a3b2c2
+
+
+
+
+
+
+ Name: Vipin Tyagi 
+Branch:MCA
+Interviewer Name: Pankaj Verma. 
+1.Self Intro
+2..Difference b/w Stack and queue 
+3.Joins
+4. diff b/w primary key and foreign key
+5.About Project. 
+6. Html tags(Anchor tag) 
+7. Linked list 
+8.CSS
+
+
+
+
+Name :sanjay kumar
+Branch:CSE
+1.intro
+2.program for reverse string 
+3.polymorphism
+4.linked list 
+5.constructor and destructor
+6.virtual functions
+
+
+
+
+
+ Abhishek verma 
+MCA (21016)
+1. Self intro
+2. Project
+3.stack 
+4. Prime
+5. Encapsulation
+6. reverse a string
+
+
+
+
+
+
+ Second Round 
+Jatin Verma
+CSE (1902310100036)
+1. OOPS Concepts
+2. About project
+3. Mongodb queries
+4.Sql queries
+5. Joins 
+6. Abstraction in detail
+7. Linked list
+8. Reverse linked list without collection framework
+9. Implementation of joins 
+10. Java basic
+
+
+
+
+ Name : Shweta Sharma 
+Branch : ECE 
+Roll no :- 1902310310061 
+Questions Asked :- 
+1. Introduce yourself 
+2. What is Encapsulation ?
+3. What is Polymorphism?
+4. Difference between Array and linked list ?
+5.Difference between polymorphism and Abstraction ? 
+6.Program of Bubble sort 
+7. Program of print series from 1 to 100 without using loop .
+8.OOPS concepts with examples in Java 
+9. Why Array is better than linked list ?
+
+
+
+
+
+ Name:vaishnavi sengar
+Branch: cse
+Roll no. : 1907830100104
+Question asked:
+1. What is magic number
+2. Armstrong number
+3. Palindrome number
+4. Program to check a palindrome number
+5.what is dbms
+6.sql queries
+7.polymorphism
+8.inheritance
+9.multilevel inheritance
+10.what is data structure
+ 11.implementation of data structure
+12. Pattern
+      A
+      BB
+      CCC
+      DDDD
+      EEEEE
+13. Oops concept 
+14.joins and it's types
+15.primary key
+16.c Or java which use more oops concept. Give one reason 
+17. Dictionary
+
+
+
+
+
+
+ Ankur Sharma
+1902310100015
+CSE
+Questions:
+1. Introduction
+2. About my Project
+3.Deadlock
+4.Binary Search
+5. Private vs Protected.
+6 change in my Project
+
+
+
+
+
+Name: Anand Gautam
+Branch: CSE
+Roll no: 1902310100010
+1. Self
+2.What is OOPs
+3.Android Project
+4.Types of css
+5.Reverse Linked List approach
+6.Time complexity Selection,Insertion
+7.which best Time Complexity in Bubble, selection, Insertion
+8.Find Next two elements 3,5,35,10,12,35,17,19,35
+9. Stack Overflow
+10. Types of Join
+11. What is Self Join
+12. What is Virtual Machine Error
+
+
+
+
+
+ Km Karuna
+IT (1902310130013)
+1 Self intro
+2Abstraction
+3Incapsulation
+4 Advantages of stack and linked list
+5 difference between primary key and super key 
+6 program linkedlist. reverse,insert 
+7 circular queue
+8Dictionary
+9id
+10Project
+11 program to print 1 to100 without using looping.
+12 constructor
+
+
+
+
+
+ Mohit pal
+1902310100056
+1.Oops and it's concept
+2.linklist
+3.sorted array
+4.delete  a node in linklist
+5. Multi threading
+6.sql queries
+7.pathern program
+
+
+
+
+
+ Deepanshu gaur
+Cse(19023101000028) 
+1 self intro 
+2 Projects
+3.linklist creation 
+4.reverse array 
+5.joins
+6.puzzle(5ltr 3ltr and 1ltr)
+
+
+
+
+ Tushar sahu 
+1902310100113 
+CSE 
+
+1. Introduction 
+2. Encapsulation with example in real world 
+3. Sorting an array 
+4. Types of polymorphism
+5. Inheritance with types 
+6. Puzzle (5lt 3lt 8lt) 
+7. Abstraction with example in programing
+
+
+
+
+
+
+ Name - riya sharma
+Roll no- 1902310100083
+Branch- cse
+ 1. Intro
+2.  2 questions based on Sql query
+3. Joins and à ques
+4.  Prgrm based on Linked list have loop cycle or not
+5. String palindrome prgrm.
+
+
+
+
+
+Name:- nitin sharma 
+Rollno.- 1902310100064
+Branch: CSE
+1.intro
+2.project
+3.linked list
+4.doubly linked list
+5.application of linked list
+6.application of stack
+7.what is file handling
+8.function in c
+9.html
+10.reverse of a string
+11.pallindrome
+12.dbms normalisation query.
+13.recursion and recursive func.
+14.implementation of binary search tree.
+15.pre-processor
+16.wht is the use of header file.
+17.implementation of dfs.
+18.implementation of bms.
+19.polymoriphism 
+20.inheritance and classes
+Time duration : 1 hours 10 minutes
+
+
+
+
+
+: Name: Shivani Tyagi
+Roll No:- 1902310100100
+Branch:- CSE
+1.Tell me about yourself
+2. Class and I'd
+3. About project
+4.oops concept with example
+5. Query to create database and table
+6. Query to insert and update 
+7. Bubble sort
+8.why we use getch() in c
+
+
+
+
+
+ First Round 
+Name: Deepanshi Sharma
+File no. : 21570
+Department: MCA
+1.Tell me about yourself
+2.Tell me about project
+3. Overloading concept
+4.Join
+5. Types of join
+6. Difference between left join and Cross join
+7. How to create a table
+8. Reverse a array
+9. In sorted array, take any number from the user and match the number in the sorted array
+10. Constructor
+11. Difference between array and list
+12. HTML
+13.CSS
+14. javascript
+15. Overriding concept
+
+
+
+
+
+
+ Second round
+Name: Muskan
+Rollno : 1823110053
+1.Introduction
+2.max asked questions from  projects
+3.linked list reverse
+4.html,css( use in project)
+5.Oops concepts
+6. Sql Queries
+7.reverse string
+8. Changes in both projects
+9.storage procedure
+10. Storage procedure Queries
+11. Inner join , left join queries
+
+
+
+
+
+ Shubham Tyagi
+Roll no. - 1902310100104
+Branch - CSE
+1. Tell me about yourself.
+2. Favourite language
+3. Dictionary
+4. Diff btw encapsulation nd abstraction
+5. Polymorphism
+6. Diff btw Primary key  nd Candidate key.
+7. Program to calculate sum of numbers upto n.
+8. Program to take a string nd reverse it.
+9. Implementation of selection sort
+10. About project
+
+
+
+
+
+
+ First Round:
+Name:Yuvraj Singh
+Rollno: 1902310100123
+
+1. Introduction
+2.
+about project (checked the souce code)
+3.what is dbms
+4.ACID properties
+5.What is sql
+6.Why sql is used
+7.CRUD operation
+8.Sql query to display employee_id of employees whose salary is between 10000 and 15000
+9. Sql query to count no of employess working in project p1
+10. Data Structures
+11. Implementation of stack using array and linked list
+12.Sum of diagonals in matrix
+13.Magic number
+14.Armstrong number
+15.Front end language
+16. Opening and closing tags
+17.What are joins and different types lf joins
+
+
+
+
+
+ Name:- Shivam Choudhary
+Rollno.- 1902310100096
+Branch: CSE
+1.intro
+2.project
+3.linked list
+4.linked list implementation
+5.application of linked list
+6.so many questions from project 
+7. Question from internship
+8.html tag 
+9.what is html
+10.reverse of a string
+11.pallindrome
+12.dbms normalisation
+13.queries order by ,Desc
+14.implementation of binary search tree.
+15.bineary serch questions on online compiler
+16. sorted binary array 
+17.polymoriphism
+18.inheritance and classes
+19. Object
+20.abstraction 
+21.Encpsulation 
+22. Find 3 highest salary 
+22.what are joins ,left right 
+23. What is MVC 
+24.primary key 
+25.unique key 
+26.foreign key 
+27.overloading 
+28.overriding 
+Time duration : 1 hours
+
+
+
+
+
+ Name:Sweety Sharma.
+Roll no:1902310100108.
+1.four pillars of OOPS.
+2.difference between stack and queue.
+3.malloc and calloc.
+4.arrays and list.
+5.check ths string is palindrome or not.
+6.intro.
+
+
+
+
+
+ Name: Utkarsh Mishra
+Roll no.: 1902310100115
+Branch cse
+1.Introduction 
+2.Something about project
+3.What is flutter
+4. Which language used by flutter
+5. Which technology same as flutter
+6. Reverse an array 
+7.Sort an array
+8.querry to create data base
+9. Querry to create table
+10. How to show one to many and many to many relation
+11. Primary key and its     use .
+
+
+
+
+ Name-  Ruman Ali
+Roll no- 1902310100085
+Sec- B
+Interviewer- Bhupinder pal
+1. introduce yourself.
+2. method overloadig and overriding.
+3. Explain OOPS. concepts and class.
+4. difference between interface and abstract .
+5. Why we use interface.
+6. types of inheritance.
+7. what is link list and types of link list.
+8. print the link list in. reverse order.
+9. print the third last. element of the link list.
+10. Super in java .
+11. joins and importance of joins.
+12. primary and foreign key.
+13. Scanner class and util.
+14. Normalization.
+15. Types of normal forms.
+16. find the nth salary. using queries.
+17. Write any query using Inner join.
+
+
+
+
+
+
+ Second Round
+Name: Deepanshi Sharma
+File no. : 21570
+Department: MCA
+1. Tell me about yourself
+2. Tell me about your project
+3. HTML, CSS, Javascript
+4. SQL Queries- Update, Join, Foreign key, Types of keys, Primary Key, Unique key
+5. Difference between Primary key and foreign key
+6. Difference between delete and truncate
+7. OOPs Concept-Polymorphism, Encapsulation, Abstract method, abstract class, Interface
+8. Array and linkedlist
+9. Sql query-To find second maximum salary from the table
+10. Sql query- How to update column in a table
+
+
+
+
+
+Name : Sahil Ahmed
+Roll no : 1902310100086
+Branch : CS
+1.Introduction
+2.54321
+   4321
+   321
+   21
+   1
+3.What is dbms
+4.SQL Queries
+5.What is primary and super key
+6.What is inline block and block
+7.Concepts of OOPS
+8.About my project
+9.Program to print square of matrix
+10.Array and link list
+
+
+
+
+Name: Km Bhumika
+Rollno:1902310100044
+Branch:CS
+Round1
+1. Introduction 
+2. Types of functions used in programming languages. 
+3.Call by value, reference 
+4.Program based on pointers
+5. Basics of DBMS
+6. Joins
+7. SQL, MySQL 
+8. What is MySQL queries 
+9. Query on inner join, outer join
+
+
+
+
+ Name: Shagun Chaudhary 
+CSE
+
+1.Introduce yourself
+2.Java 8 features 
+3.implement them with example
+4. All about project
+5.What is Api and apikey
+6.Searching programs both
+7.Which is best sorting algorithm implement that and why
+8.. Ddl and dml commands with queries of each
+9. Difference between truncate and delete 
+10..join queries why joins?
+11. What is Data structure 
+12. Run Pallindrome number program
+13. Why we use header files
+14.Reverse a linked list 
+15. Different approach and implementation
+
+
+
+
+
+
+ Name: Shubham Shrivastav
+Branch:MCA
+Round 2
+Interviewer Name: Harshdeep Singh Walia. 
+1. Introducing. 
+2. About Project:
+3.  Program Input 1,2,3,4;
+     Output 1,3,6,10;
+4.  Input Hi I am Shubham
+     Output iH ma mahbuhS
+5. Right Join query
+6.Marquee Tag
+7. Iframe tag
+8.Linked List
+9. Queries
+10.ACID properties.
+
+
+
+
+ Round 2
+Name: Yuvraj Singh
+Roll No : 1902310100123
+Branch CSE
+
+All questions were asked related to my project only.
+
+It was a android application and questions were about
+
+Android lifecycle
+What is build
+What is gradle
+Source code
+
+Asked me to explain the logic behind the app.
+ Round 2
+Name :Ritik Singh
+Roll no.:1902310100081
+Branch CSE
+1. About my project
+2. Add two larger no. Which cannot be stored in a integer type variable
+3. Find kth element in a linked list.
+
+
+
+
+ Round : 2
+Name : Niket Paliwal
+Roll no : 1907830100061
+Branch CSE
+1. About my project 
+2. Encapsulation
+3. Program input 1,2,3,4;
+Output 1,3,6,10;
+4. Input Hi I am Niket
+   Output iH ma tekiN
+5. Right join query
+6. Foreign key query
+7. Laptop configuration
+
+
+
+ Name    -   Mohit kumar
+Roll no  - 1907830100057
+Branch  -  CSE
+Round 1
+1. Introduction
+2. SQL queries 
+3. Palindrome program
+4. Pattern
+    _ _ _ _ 1
+    _ _ _ 2 3
+    _ _ 4 5 6
+    _ 7 8 9 10
+5. About project
+6. Primary & Foreign key
+
+
+
+
+ Name:- Shubham Nirmaniya 
+Rollno.- 1902310100103
+Branc:- CSE
+Round - 1
+1.Tell me about yourself
+2.Ways to apply CSS to a html file
+3.Reverse a linked list
+4.Program to print Pyramid
+5.Next two numbers after.....
+3,5,35,10,12,35,17
+6.Clause used with select query
+7.Types of data structures
+8.Advantages of linked list
+9.Complexity of bubble sort
+10.Self join and types of join in SQL
+11.Alternate key
+
+
+
+
+
+ Round 1
+Name - Vishal Aggarwal
+Roll No - 1902310100120
+Branch - CSE
+1.Sql queries of update
+2. insert 
+3.create table 
+4.query of inner and left join
+5.query to find even or odd id of employee
+6.Doubly Linked list
+7.Reverse of linked list program
+8.Doubly linked list program
+9.2nd highest element in array
+10.Queue concept
+11.Palindrome Number In C
+12.Reverse of string in C and Java both
+13.List vs Tuple in Python
+14.Which is faster among list or tuple?
+15.Void vs Null 
+16.Why we use stdio.h header file in C?
+17.Inheritance Concept and Its Type and its real life example
+18.Hirerachical Inheritance
+19.Inheritance Implementation
+20.Stack Concept and its real life example
+21.Singly & Doubly Linked List real life example
+
+
+
+ Name: Sweety Sharma
+Round 2
+1.intro.
+2.questions about projects.
+3.dbms basics and  questions.
+4 .oops
+5.differnce between interface and class.
+6.difference between reference and object.
+7.questions on java basics.
+Duration:45-50 min
+[19:24, 11/18/2023] Shruti Singhal: Name-Shivani Sain
+Roll no-1902310100099
+Branch-CSE
+1.self introduction
+2.basics of python
+3.dictionary
+4.tuples
+5.list
+
+6. Star pattern
+***
+**
+*
+**
+*
+7.python advantages over 
+Other languages
+
+
+
+
+ Ankur Sharma
+1902310100015
+Second interview
+Questions:
+1.change in my project
+2. Binary Search Program
+3. OOPs concepts
+4.Joins in Dbms
+5. Query for inner join
+
+
+
+
+Name: Shivani Tyagi
+Roll No:- 1902310100100
+Branch:- CSE
+Second Round
+1.Tell me about yourself
+2. Marque tag in html
+3. About project
+4.Encapsulation
+5. I frame and anchor tag in html
+6.Joins
+7.primary key and foreign key
+8.program
+Input:[ 1,2,3,4]
+Output:[1,3,6,10]
+10.Check whether a string is Anagram or not.
+11.Reverse the string
+[19:24, 11/18/2023] Shruti Singhal: Darsh Singh Kushwaha 
+2102310109004
+CSE
+TELL ME ABOUT YOURSELF 
+1. Oops concepts
+2. Anyone concept in detail 
+3. Overloading vs overriding
+4. Recursion and DS it uses
+5. Program for
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+6. Linked list traversal of 2nd last in singly linked list
+7. Primary key
+8. SQl query to find id of emp whose dept is HR where emp and dept are different tables having dept_id as common column
+9. Static keyword 
+10. Will the static variables will be stored multiple times for multiple objects. Why or why not
+11. Questions about project
+
+
+
+
+Name: Akshit Tyagi
+Roll No: 2002310100017
+Branch: CSE
+1. Update query
+2.having and where
+3.reverse string 
+4.Access modifier
+5.array reverse
+6.swap without extra element
+7.maxsumofsubarray
+8.normal function program
+9.time  and space complexity
+10.static keyword
+
+
+
+
+
+ Name :Nida saifi
+Roll no: 2002310100076
+Branch: CSE
+1.linked list
+2.inheritance
+3.stack and queue
+4.joins in sql
+5. Factorial of a number using recursion
+6.print pattern
+***
+**
+*
+**
+*
+7.static and dynamic memory allocation
+
+
+
+ Name : Abhinav Bansal
+Roll No. - 2002310100006
+Branch: CSE
+1: intro
+2: Inheritance and abstraction
+3: error handling
+4: interface
+5: frequency of every char in string
+6: sort negative on one side and positive on other side of array
+7: joins with query
+8: alias
+9: threading
+10: having and where clause
+11: About project
+
+
+
+
+
+Name :Aman Gupta
+Roll No.- 2002310100019
+Branch:CSE
+1.Array vs LL
+2.swap 2 no.s without using 3rd variable
+3.addition n natural no using recursion
+4.Check whether given no. Is int or float
+5. Pre, post ,inorder of binary tree 
+6. Having 2 bucket🪣vol. 5ltr, 3ltr To scale 4ltr milk
+7.Acid properties
+8.which is sufficient  for deletion of data array or LL
+
+
+
+
+ Name : Aakash Kumar 
+Roll No. : 2007830100001
+Branch : CSE
+1. Intro
+2. HTML
+3. Difference between Polymorphism and Abstraction with real life examples
+4. Recursion 
+5. Program to write the sum of n natural numbers with recursion
+6. Having 2 buckets 🪣with vol, 5ltr,3ltr to scale 4ltr of water from river
+7. Linked list
+8. Reverse linked list
+
+
+
+
+ NAME - PARTH JOSHI
+ROLL NO. - 2002310100082
+BRANCH - CSE
+QUESTIONS ASKED - 
+
+1. WHAT IS OOPS
+2. ALL PILLARS OF THE OOPS
+3. METHOD OVERLOADING
+4. METHOD OVERRIDING
+5. MULTI THREADING
+6. CONSTRUCTORS IN DETAIL
+7. CLASSES IN DETAIL
+8. HOW MANY WAYS ARE THERE TO MAKE BOJECT OF ANY CLASS
+9. WHAT IS BOTTOM UP APPROACH
+10 DIFFERENT WAYS TO CREATE ARRAYS IN JAVA
+11. USES OF FUNCTIONS, WHY THEY ARE MADE
+12. SORTING AND SEARCHING TECHNIQUES NAME
+13. ALGORITH AND IMPLIMENTATION OF LINEAR SEARCH, BINARY SEARCH, QUICK SORT, MERGE SORT.
+14. WHAT IS REDUX.
+15. WHAT ARE FLEX, FLEXBOX,BOX,GRADIENT. ALSO HOW THEY ARE DIFFERENT FROM EACH OTHER.
+16. PATTERN - 
+    1
+    12
+    123
+    1234
+    12345
+17. ALSO ASK ABOUT PROJECT MADE
+18. THEY ALSO NEED GREAT KNOWLEDGE OF DATA STRUCTURE.
+
+
+
+
+
+ Name : Yash Tyagi
+Roll No. - 2002310100120
+Branch: CSE
+1: intro
+2: polymorphism
+3: sql(CRUD operations)
+4: check prime
+5: overloading,overridding
+6: Linked List + Qs
+		l1	5->6->7
+		l2	2->3->3
+		O/P	7->0->0
+7: pattern 
+	1
+	2 1
+	3 2 1
+	4 3 2 1
+	5 4 3 2 1
+8: arr=[1,2,7,8,6,3]
+   k=9
+    o/p=[2,7]
+        [1,8]
+        [6,3]
+Time : 00:43:51
+By:Bhupender Pal,Utkarsh,vishal choudhary
+
+
+
+
+
+Name Shivam
+Roll no. 2002310310021
+Branch (ECE)
+1. about your self
+2.about project
+3.palindrome
+4.SQL vs DBMS
+5.marque tag in html
+6.reverse string
+7.reverse a link list
+8.join 
+9search node in tree
+10.quick sort
+11.about graph
+12.event loop
+
+
+
+
+ Name -Sunmeet Kaur Sachdeva
+Roll no -2002311530031
+Branch -CSE(AI)
+About your self
+1.What is array 
+2.pattern 
+1 
+2 1 
+3 2 1 
+4 3 2 1 
+5 4 3 2 1
+3.What is linked list
+4. Diff bw LinkedIn list and array
+ 5.Find middle element in LinkedIn list 
+6.Sql queries Given two tables emp and dept combine them.
+7.Abstraction 
+8. ACID properties
+9.Diff in Reference and pointer in C++ 
+10.Query to find second highest salary in table
+11.update status of emp from s=0 to s=1 and vice versa in single query
+12.find duplicate data in table .
+13. Project -Android project
+14. Changes
+[19:24, 11/18/2023] Shruti Singhal: Name: Aman Ruhela 
+Roll no: 200231153002
+Branch: CSE(AI & ML)
+
+Questions asked:
+1.INTRO
+2. SHOW PROJECT
+3.SOME CHANGE IN PROJECT 
+4.STRING REVERSE
+5.NUMBER REVERSE
+6.SQL- UPDATE QUERY
+7.SQL- CONSTRAINTS IN DBMS
+8.TYPES OF LINK LIST
+9.DIFFERENCE B/W ALL LINK LIST
+10.RECURSION
+11.FACTORIAL PROGRAM USING RECURSION
+
+
+
+
+
+ Name : ASHISH KUMAR JHA
+Roll Number:2007830100013
+Branch:cse( sec D)
+
+Round 1
+
+1 intro
+2 about project
+3 some questions about async await, promises, tailwindcss, axios, callbacks disadvantages,
+4 reverse string
+5 some pattern question
+6 magic number
+7 concept of next permutation
+8 some changes in product
+
+duration:32 min
+
+
+
+
+
+Name:purvi saini
+Roll no:2002311530019
+Branch:cse(sec C)
+1.intro
+2.reverse linked list
+3.palindrome
+4.insertion sort
+5.merge sort
+6.queue
+7.foreign key
+8.joins
+9.sql query 
+10.access modifier
+
+
+
+
+
+ Name:ASHISH KUMAR Jha
+Roll Number :2007830100013
+Branch: cse (sec D)
+
+Round 2
+
+1 intro
+2 in depth js working, all types of promises, about storage, axios deta fetching, closures, prototype inheritance etc (about 30 mins just js)
+3 React state, components, limitation of  props, usestate, useeffect, redux toolkit and its disadvantages and many questions on how I use react in my project
+3 changes in project
+4 remove 1st k elements from
+inp: arr{1,2,3,4,5}
+oup: arr{4,5,0,0,0}
+
+5 logical question on 5ltr and 3ltr jug questions
+
+given feedback of my performance
+
+duration:45 mins
+
+
+
+
+
+
+ Name:Suraj Arya
+1.intro
+2.reverse a linklist
+3.searching in tree
+4.redux
+5.accending or descending order of array
+6.sql queries
+7.promises in javascript
+8.Redux toolkit in. React
+9.context Api
+10.project
+11.Event loop
+12.All oops concepts with implementation
+13.palindrome
+
+
+
+
+ Name-Hritik Tyagi 
+Roll no. -2002310100055
+Branch -cse
+1 . Fibonacci series(write code on notepad) 
+2.count no. Of vowels and consonant in a string
+3.Create and insert query sql
+4.query to find similar emailid in sql
+
+
+
+
+
+ Name-Abhishek Singhal
+Roll no. - 2002311540001
+Branch - CSE(DS)
+1. About Yourself
+2. Show project
+3. Write program on fibonacci number using recursion
+4. Write program on binary Search
+5. OOPS concept 
+6. Insertion sort
+
+Feedback is make a big Project
+
+
+
+
+ Name : vanshika 
+Roll no : 2002311530033
+Branch : AIML
+1.intro
+2. Reverse number 
+3. Reverse number by recursion
+4. Pattern 
+  
+1
+22
+333
+4444
+55555
+
+5.sql join command query
+6.2nd highest salary in table emp
+7. Implementation of oops
+8.does java support multiple inheretance ? If not then what is alternate option 
+9.interfaces
+10.types of functions in array 
+11.types of languages in sql
+12.differentiate between truncate , Drop and delete command in sql.
+13. Abstraction , encapsulation 
+14. Inheritance and its types
+15.recursion and why we use it .
+16.sorting algorithms and their complexities
+17.project 
+18.changes in project 
+
+Time : 40 min
+
+
+
+
+
+ Name :  Naeim Saifi
+Roll no : 2007830100031
+Branch : Cse
+1. Intro
+2. About my project and changes 
+3 Difference between Class and instances
+4. Program to count vowel and consonants in string 
+Then I'm Disconnected
+
+
+
+
+
+
+ Name:Suraj Arya
+Roll No - 2002310310025
+Branch-ECE
+1.intro
+2.reverse a linklist
+3.searching in tree
+4.redux
+5.accending or descending order of array
+6.sql queries
+7.promises in javascript
+8.Redux toolkit in. React
+9.context Api
+10.project
+11.Event loop
+12.All oops concepts with implementation
+13.palindrome
+
+
+
+
+
+
+ Name- Sunmeet Kaur Sachdeva
+Round -2 
+Questions
+1. Show projects
+2. Details about project
+3. Intent passing,Toast,Bundle passing,database,etc
+4.Changes in project
+5. Anagram solution
+6.i/p-5,10,15,20
+   O/p- 5,15,30,60
+7.Sql
+8.Joins 
+9.Detail abt outer and inner join
+10. Primary key,Foreign key 
+11.OOPS concept
+12. Encapsulation
+
+Time :35 min
+
+
+
+
+
+
+ Name-Teena Thakur
+Roll no.-2002310100106
+Branch-cse
+
+=>About myself
+1.what is palindrome
+2.what is recursion
+3.method overloading
+4.method overriding 
+5.*   *  *  *  *
+      *  *  *   *
+         *  *  *
+            *  *
+              *
+6.arr=[2,3,4,5,8,7]
+K=9
+   O/p should be 7,2(7+2=9 )
+
+7.can we reverse an array by recursion?
+
+8.what is polymorphism
+
+9.arr[1,3,2,5,6,7,2,9,5]
+   Op=3 5 7 9
+
+10.linkedlist
+11.what i do to overcome      my weakness. 
+
+12. Arrays creation
+
+
+
+
+
+
+ Name: Yogesh Baghel
+Roll no: 2002310100121
+Branch: CSE
+Questions asked:
+1. About youself
+2. compiler  vs interpreter
+3. program vs software
+4. python is compiler or interpreter
+5. About Projects
+6. changes in project                                       
+7. print fibbonaci series                                   
+8. pattern program                                              
+    1
+    2 1
+    3 2 1
+    4 3 2 1                                                                                                             
+9. react js question - state, useeffect, components             
+10. DBMS - create table and insert and find the name using like 
+11. encapasulation concept                                      
+12.  Diffrence b/w tailwind css and CSS
+
+
+
+
+
+
+
+ Name:RITIKA TYAGI 
+Roll no.:2002310100090
+Branch:cse
+
+1.About myself
+2.ask about project 
+3:some changes in project 
+4.fibonnaci series 
+5.palindrome
+6.reverse string 
+7.factorial 
+8.sql query 
+
+Time duration 24 min
+
+
+
+
+
+ Name: Aman Tyagi 
+Roll no: 2002311530003
+Branch: CSE (AIML)
+Questions asked:
+Round 1
+
+1. Introduction 
+2. Types of functions in array
+3. Structure and class 
+4. Where and having 
+5. Constructor and it's types
+6. Let vs var
+7. Final vs finally
+8. Normalisation and it's types
+9. Reverse a string using recursion
+10. Pattern
+11. About Project 
+12. Modification in Project 
+And so on
+
+
+
+
+
+
+Name: Ramakant Shukla 
+Roll no:2002311530020
+Branch:Cse-(AI&ML)
+Questions asked:
+1. Project related ques
+2.sql - where vs having
+3. Nosql vs SQL
+4. Maximum sum subarray
+5. String anagrams diff approaches with code
+6.closures in js
+7.synchronous  js
+8.Swap two nos. Without 3rd variable
+9. Slice vs splice
+10. O/p : 0.1+0.2===0.3
+11.few more o/p ques on ===
+12. Lexical analysis in js
+
+
+
+
+
+ Name : Abhinandan
+Roll no : 2007830100003
+Branch : cse 
+Question:
+1. Introduction
+2. class and objects with example
+3. Recursion
+4. Pattern program
+         *
+      * * *
+   * * * * *
+      * * *
+         *
+5. Array index changing with programs 
+6. Delete ki quary
+7. Max rank ki quary
+8. Link list and arrays ma difference
+9. Circular link list
+10. join 
+11. overloading and overriding
+12. Oops concept
+13 . DBMS key
+14. String reverse
+15. Complexity
+
+Time: 50 min
+
+
+
+
+
+ Name:Vidya Kumari 
+Roll no:2002311540009
+Branch:Cse(DS)
+Questions asked:
+1.Project
+2.Changes in project 
+3.Fibonnaci series 
+4.Array vs Linklist(advantages os using array over linklist)
+5.Oops-(Polymorphism vs Inheritance with implementation)
+6.Prime number
+7.Reverse string
+
+
+
+
+
+ Name: Aryan Tyagi
+Roll no. 20023100030
+Branch. Cse
+1.Intro
+2.About my project and functionality
+3.changes in project
+4.sum of n natural number using recursion
+5.puzzle
+
+
+
+
+
+ Name :  Tejas Chaubey
+Roll no. 2002310100107
+1 about yourself
+2 languages you know
+3 common between three arrays in java (python not allowed)
+4 Rdms
+5 mergeshort implementation
+6 queries
+7 nth salary
+8 print table with unique element
+9 max element and second maximum
+10 min and second minimiu
+11 oops concept
+12 project
+13 real world example of object and classes 
+14 why we need oops
+15. Difference between data hiding and abstraction
+  
+ Duration - 45 min
+
+
+
+
+
+ YASHASVI VASHISTH
+2102310140077
+MCA (2nd Year)
+
+1. About Yourself
+2. About the Project
+3. WAP of Fibonacci Series
+4. WAP to Reverse a String
+5. Types OF Join
+6. Query of Inner Join
+7. Diff b/w Polymorphism & Inheritance
+8. What is OOPS
+9. About Stack & Queue
+10. What is Recursion ?
+11. What is a Constructor, types of Constructor, How many times does it called in a program.
+
+
+
+
+
+Name-Abhishek Srivastava
+Roll no-2002310130001
+1.intro
+2.ask my project related questions
+3.palindrone number
+4.update query
+5.puzzle
+
+
+
+
+
+ Pratham Kaushik 2002311530018
+BTech (AI & ML)
+
+1. About Yourself
+2. About My Projects with some minor changes
+3. Check for Anagrams
+4. Majority Element using Moore Algorithm
+5. Tree Traversal in O(1) space (Check out Morris Traversal)
+6. Stock span problem
+7. Event loop in JS
+8. Closures
+9. Sessions & Cookies
+10. Local Storage
+11. Higher Order Functions
+12. Strict mode in JS
+13. Promises 
+14. JSON
+15. Word Ladder (It is based on BFS optimization)
+16. I asked, "if is there any scope of working on some Machine Learning projects in future ?"(Answer was quite inspiring)
+17. I asked about the ongoing projects of the company & their respective tech stacks.
+18. Feedback was positive !!
+
+Duration: 1hr 40min (it was totally unexpected !!)
+
+
+
+
+
+
+ Second round question 
+Name :RITIKA TYAGI 
+Rollno : 2002310100090
+Branch :cse
+1) updation and change in project 
+2) throw and throws
+3)  ==&=== difference
+4)encapsulation
+5) stack 
+6)input:1234
+output:13610
+7:s=()[]
+Output: true
+
+
+
+
+
+
+ Name :  Manan Sharma 
+Roll no.2002310100065
+ 1.Introduction
+2. Classes and object 
+3. Pattern 
+4. SQL 
+5. Primary key and foreign key 
+6. Neighbouring element largest array 
+7. Delete query
+8. Stack 
+9. Recursion
+ Duration - 30 min
+
+
+
+
+
+
+
+ Name - Abhishek Rajbhar
+Roll no - 2002310100008
+1. Difference between static and dynamic memory allocation with example
+2. Object and classes
+3. Delete and turncate query in SQL
+4. Join and it's query
+5. WTP of Fibonacci series with recursion
+6. Pattern program
+***
+**
+*
+**
+*
+7. Oops and inheritance
+8. Queue
+9. Difference between linkedlist and array
+10. Keys and their properties
+ Duration 35 min
+
+
+
+
+
+ Name: Yash
+Roll no. 2002310100118
+
+1. Introduction
+2. About project
+3. State and props
+4. Difference SQL vs no SQL
+5. Anagram string
+6. Merge sort (approach and implementation)
+7. Quick sort 
+8. Complexities of algorithms
+9. Implementation of bubble sort 
+10. Cookies vs localstorage
+11. Hashmap
+12. Majority element
+13. Access modifier
+14. Protected vs default
+15. Why string is immutable
+16. SQL queries
+17. Binary search
+18. Sort string 
+
+Duration 50 min
+
+
+
+
+
+
+ Name :Deepak Bharti
+Roll No:2002310100039
+1.Introduction
+2.OOPS concept
+3.pattern program
+1
+22
+333
+4444
+55555
+4.Sql
+5.prime key &unique key
+6.CSS
+
+
+
+
+
+ Pratham Kaushik
+2002311530018
+BTech (AI & ML)
+
+Round 2
+
+1. Again, a short discussion on projects(related to ML)
+
+2. OOPs concepts
+3. JS concepts (almost same as before)
+4. Networking & AWS regarding questions (which I didn't expect, but still able to answer them)
+5. Parentheses matching problem 
+6. 0/1 Knapsack 
+intuition & implementation 
+7. Again, I asked about the ongoing projects, respective tech stacks & especially Workload management
+8. Finally, I asked about feedback & it was again quite positive !!
+
+Duration: 40 mins
+
+
+
+
+
+
+ Name:- Kapil Dagur
+Roll No:- 2002310100057
+
+Round : 1
+About Yourself
+
+Question.....
+1.) Polymorphous?
+2.) Abstraction?
+3.) Exception Handling
+4.) Linked List
+Ip:- head = 1-> 1-> 1-> 2-> 2-> 3-> 4-> 5->5
+Op:- head = 1-> 2 ->3 ->4 ->5
+
+5.) Array Problem
+IP =[1,2,3,4,5]
+OP = [3,4,5,1,2]
+
+6.) Pattern Problem
+N=5
+        *
+      **
+    *
+  **
+***
+
+7.) D.B.M.S
+    a.)Primary Key
+    b.)Foreign Key
+    c.)emp(id,name,dept_id)
+        dept(dept_id,dept_name)
+        Find those employee
+        whose dept_name = hr
+    d.)aggregation
+        function,count() those
+        employees whose
+        dept_name is hr
+    e.)Delete that employee
+       whose eid = 5
+
+
+
+
+
+ Name : Shubham Shrivastav
+Roll no : 2102310140062
+Branch : MCA 
+Questions:
+1. Introduction 
+2. Recursion
+3. Pattern program 
+         *
+      * * *
+   * * * * *
+ * * * * * * *
+4. Palindrome program 
+5. Circular linked list
+6. Overloading and overriding 
+7.Joins.
+8. Saas.
+9. OSI model.
+10. SMTP.
+11.Difference between HTTP and HTTPS.
+12.  Basic Linux Command.
+13. About Project.
+
+
+
+
+
+
+
+ Name- Hariom Arya
+Roll no. - 2002310100051
+Branch CSE 
+
+Round 1
+
+1 Intro 
+2 about project
+3. About binding 
+4. carousel implementation
+5.  Input 1 2 3 4 5
+     Output 1 3 6 10 15
+6.  Input nums = [2,7,11,15], target = 9
+Output = [0,1]
+7. Function based component  vs class based component
+8. State management
+
+
+
+
+
+
+Name: Shivanand Dubey
+1.introduction
+2.Recursion
+3.OOPs
+4.Piller of oops
+5 stack vs queue
+6 About project
+7 changes in project
+8 recursion
+9 factotial 
+10 linklist finding loop
+11 sql queries
+
+
+
+
+
+
+
+ Name- Hariom Arya
+Roll no. - 2002310100051
+Branch CSE 
+
+Round 2
+
+1 Intro 
+2  about projects
+3 OOPs
+4 == AND ===
+
+5 exceptional handling
+6 virtual dom 
+7 state vs props
+8 props drilling, HOF 
+9 hooks , react life cycle methods.
+10 change and updation in project.
+11. ES6 features.
+
+
+
+
+
+
+ Name:- Kapil Dagur
+Roll No:- 2002310100057
+
+Round 2
+Questions.....
+1.) OOPS Concept
+     a.) Overloading
+     b.) Overriding
+     c.) Driven Class
+     d.) Base Class
+     e.) Why Drive class we use
+2.)D.B.M.S Questions
+    a.) Primary & Foreign Key
+    b.) Difference b/w both
+        keys
+    c.) ACID Property
+         Explanation All With
+         Examples
+3.) CPP Qus
+     a.) Operator Overloading
+4.) JAVA Qus
+     b.) final keyword and use
+     c.) Can we change we
+          Value of final keyword
+          Variable
+     d.) What happened if we
+          write final class
+        Like- final class Hello{};
+     e.) finally keyword
+Program Problems
+      a.) IP: Arr = [h,e,l,l,o]
+          OP: Arr = [o,l,l,e,h]
+      b.) First Occurance Index
+          IP:
+          A= "racerat"
+          B="rat"
+          OP: 4
+
+\
+
+
+
+
+
+
+ Name: Rohit Kumar
+Roll no: 2002310100093
+Branch: Cse
+Intro
+1. Array functions
+2. Types of constructor
+3. Joins
+4. 2 highest salary in SQL
+5. Merge two columns using joins
+6. Greatest and minimum elements in      unsorted array
+7. Commen elements from 3 arrays
+8. Greatest node from linked list
+9. Final and finally
+10. Classes and objects using real life example
+11.about project and some changes
+12. Synchronous and asynchronous js
+13. Difference between var and let
+14. While and do-while
+15. Normalisation
+16.Sorting techniques and their explanation
+
+
+
+
+
+Name- AKASH 
+Roll no. - 2002310100013
+Branch CSE 
+
+Round 2
+
+1 Intro 
+2 about projects
+3 OOPs
+4 js is synonymous or asynchronous 
+5 final vs finally()
+6 question find single occurrences of element in array where all element occurs twice except that element
+7  Find index of str1 that occurs          in str2.
+8  encapsulation 
+9  SQL joins
+10 change and updation in project.
+Duration 40 min
+
+
+
+
+
+
+ Suraj Arya...
+Roll no -2002310310025
+Round 2
+1.context Api 
+2.about project
+3.chnages in project
+4.position absolute or relative in css
+5.useffect in react
+6.axios in react
+7.last 5 character remove from string
+8.basic Js question
+9.puzzle yz vw St PQ next two
+10.event in button click in javascript
+
+
+
+
+
+
+Suraj Arya...
+Roll no -2002310310025
+Round 2
+1.context Api 
+2.about project
+3.chnages in project
+4.position absolute or relative in css
+5.useffect in react
+6.axios in react
+7.last 5 character remove from string
+8.basic Js question
+9.puzzle yz vw St PQ next two
+10.event in button click in javascript
+11.useState
+
+
+
+
+
+
+Suraj Arya...
+Roll no -2002310310025
+Brach - ECE
+Round 2
+1.context Api 
+2.about project
+3.chnages in project
+4.position absolute or relative in css
+5.useffect in react
+6.axios in react
+7.last 5 character remove from string
+8.basic Js question
+9.puzzle yz vw St PQ next two
+10.event in button click in javascript
+11.useState
